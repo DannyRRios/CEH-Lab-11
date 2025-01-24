@@ -5,5 +5,5 @@
 This is a screenshot of the final step I completed! 
 
 <h2>Description</h2>
-This lab was focused on session hijacking that can be used to act as a MITM attack or being able to control your machine. First we hijacked a session using Zed Attack Proxy (ZAP). We then intercepted HTTP traffic using bettercap and Hetty. After we did that we then practiced being able to detect session hijack attacks through Wireshark. This lab was pretty easy and wasn’t too hard to grasp.
+This lab was focused on session hijacking that can be used to act as a MITM attack or being able to control your machine. First, I hijacked a session using Zed Attack Proxy (ZAP). Then I intercepted HTTP traffic using bettercap and Hetty. After I did that I then practiced being able to detect session hijack attacks through Wireshark. This lab was pretty easy and wasn’t too hard to grasp.
 <br />
