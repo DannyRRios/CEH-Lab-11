@@ -1,7 +1,7 @@
 <h1>CEH Lab 11</h1>
 
 
-![Image Alt]()
+![Image Alt](https://github.com/DannyRRios/CEH-Lab-11/blob/300ec1b1c45f0649b84218a59817a3999ba2ea35/Lab11-1.png)
 This is a screenshot of the final step I completed! 
 
 <h2>Description</h2>
